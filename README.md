@@ -20,7 +20,7 @@ Legal Document Chatbot, a Streamlit-based web app that uses a pre-trained transf
 1. Clone the repository:
 
  ```sh
- git clone https://github.com/your-username/your-repo.git
+ git clone [https://github.com/your-username/your-repo.git](https://github.com/iabhiroop/Legal_Document_Chatbot.git)
  ```
 2. Install the required Python packages:
 ```sh
