@@ -7,7 +7,7 @@ Legal Document Chatbot, a Streamlit-based web app that uses a pre-trained transf
 - Upload your legal document text file for analysis.
 - Chat with the intelligent chatbot to ask questions based on the provided document.
 - Get instant, concise answers from the chatbot.
-- Efficiently navigate and find information within lengthy legal documents.
+- Efficiently navigate and find information within legal documents.
 
 ## Demo
 
